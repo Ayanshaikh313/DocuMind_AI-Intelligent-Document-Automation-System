@@ -1,0 +1,44 @@
+{
+  "name": "kmrl",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@google/genai": "^1.20.0",
+    "@supabase/ssr": "^0.7.0",
+    "@supabase/supabase-js": "^2.57.4",
+    "bootstrap": "^5.3.8",
+    "formidable": "^3.5.4",
+    "libreoffice-convert": "^1.7.0",
+    "next": "15.5.3",
+    "papaparse": "^5.5.3",
+    "pdf-lib": "^1.17.1",
+    "react": "19.1.0",
+    "react-bootstrap": "^2.10.10",
+    "react-dom": "19.1.0",
+<<<<<<< HEAD
+    "react-icons": "^5.5.0",
+    "react-toastify": "^11.0.5"
+=======
+    "react-toastify": "^11.0.5",
+    "sharp": "^0.34.4",
+    "xml2js": "^0.6.2"
+>>>>>>> 5c8e5e4dc481159095cb6105d57ce7eb9ff991e9
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.3",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
